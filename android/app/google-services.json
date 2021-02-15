@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "288683208600",
+    "project_id": "malhemsder",
+    "storage_bucket": "malhemsder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288683208600:android:3e720dde6d4cfb740885ed",
+        "android_client_info": {
+          "package_name": "com.asol.tec.mlahem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288683208600-ahbn8kdgeo4j9q2hjcqoo5vcvsvvbmdg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.asol.tec.mlahem",
+            "certificate_hash": "8af1b0372f0f94b145dfd1136b97c018e08bfdf3"
+          }
+        },
+        {
+          "client_id": "288683208600-n50utp4c0lqqj6hpkb78aiobfdkd1vmv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFly4Mo2kvw7lUODIPkK78HPSKKD8sGEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288683208600-n50utp4c0lqqj6hpkb78aiobfdkd1vmv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
